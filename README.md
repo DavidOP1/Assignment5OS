@@ -7,10 +7,6 @@ Name: David Ehevich
 
 Name: Liel Zilberman
 
-*Sources :
-
-Malloc & free implemntation: https://stackoverflow.com/questions/5422061/malloc-implementation
-
 
 Assignment 5 in OS course: 
 
